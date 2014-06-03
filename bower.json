@@ -1,0 +1,27 @@
+{
+  "name": "display",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Gerhut/display",
+  "authors": [
+    "Geoege Chung <Gerhut@GMail.com>"
+  ],
+  "description": "移动终端下的简单图文展示",
+  "main": "index.html",
+  "keywords": [
+    "display",
+    "mobile"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.1",
+    "iscroll": "~5.1.2",
+    "zeptojs": "~1.1.3"
+  }
+}
